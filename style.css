@@ -53,8 +53,8 @@ margin-bottom: 15px;
 
 .pic {
     height: 40%;
-    background-image: url("https://www.sueddeutsche.de/image/sz.1.3343179/704x396?v=1508400235");
-background-position: center;
+    background-position: center;
+    /* background-image: url("https://www.sueddeutsche.de/image/sz.1.3343179/704x396?v=1508400235"); */
 background-size: cover;
 border-radius: 5px 5px 0 0 ;
 
@@ -73,4 +73,11 @@ border-radius: 5px 5px 0 0 ;
     color: white;
     border-radius: 5px;
     font-weight: 600;
+}
+
+.b {
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/08/9b/e6/76/lo-studente.jpg;")
+}
+.c {
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/08/9b/e6/76/lo-studente.jpg");
 }
